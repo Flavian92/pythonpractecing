@@ -1,0 +1,18 @@
+2023-07-05 10:15:25,875 INFO     : App initialization started.
+2023-07-05 10:15:26,032 INFO     : Connecting to the database.
+2023-07-05 10:15:26,345 DEBUG    : Database connection established successfully.
+2023-07-05 10:15:26,349 INFO     : Applying migrations.
+2023-07-05 10:15:26,572 DEBUG    : Migration 001_create_tables applied successfully.
+2023-07-05 10:15:26,584 DEBUG    : Migration 002_add_fields applied successfully.
+2023-07-05 10:15:26,586 INFO     : Migrations applied successfully.
+2023-07-05 10:15:26,589 INFO     : Starting server.
+2023-07-05 10:15:26,823 INFO     : Server started on http://localhost:8000/.
+2023-07-05 10:15:26,825 DEBUG    : Serving static files.
+2023-07-05 10:15:26,829 INFO     : User logged in: john.doe
+2023-07-05 10:15:27,102 WARNING  : Failed to load configuration file. Using default settings.
+2023-07-05 10:15:27,355 ERROR    : Internal server error occurred. Traceback: ...
+2023-07-05 10:15:27,398 DEBUG    : Request processed in 123 ms.
+2023-07-05 10:15:27,400 INFO     : User logged out: john.doe
+2023-07-05 10:15:27,623 DEBUG    : Performing database query.
+2023-07-05 10:15:27,680 DEBUG    : Query returned 50 results.
+2023-07-05 10:15:28,912 INFO     : Application shut down gracefully.
