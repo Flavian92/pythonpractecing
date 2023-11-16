@@ -1,3 +1,5 @@
+# S3 using the Boto3 library. The script defines functions for uploading and downloading files to/from an S3 bucket
+
 import logging
 import boto3
 from botocore.exceptions import ClientError
